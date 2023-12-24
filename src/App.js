@@ -16,6 +16,7 @@ const App = () =>{
       setTemperatureColor("hot");
     }
   };
+  //mine
 
   const decreaseTemperature = () => {
     if (temperatureValue === 0) return;
